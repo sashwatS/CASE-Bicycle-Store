@@ -1,0 +1,1 @@
+This was a project for my Databases course, and it was worked on by Emil Moryakov, Alvin Yadav and I. It is an online store for selling bicycles and bicycle accessories, with different operation modes for buyers and sellers.
